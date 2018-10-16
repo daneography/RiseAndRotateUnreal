@@ -1,0 +1,1124 @@
+﻿Log file open, 10/16/18 11:41:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RiseAndRotate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.315235
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.635s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz, GPU: AMD Radeon(TM) R5 240
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.16-15.41.34:625][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.16-15.41.34:625][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.16-15.41.34:663][  0]LogHAL: Display: Platform has ~ 8 GB [8544514048 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.16-15.41.34:663][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.16-15.41.34:663][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.16-15.41.34:664][  0]LogInit: Computer: SOC-SBABU-WR5
+[2018.10.16-15.41.34:664][  0]LogInit: User: dacena
+[2018.10.16-15.41.34:664][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.16-15.41.34:664][  0]LogInit: High frequency timer resolution =3.312788 MHz
+[2018.10.16-15.41.34:665][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.10.16-15.41.34:665][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.16-15.41.34:665][  0]LogMemory: Process Physical Memory: 100.99 MB used, 100.99 MB peak
+[2018.10.16-15.41.34:665][  0]LogMemory: Process Virtual Memory: 91.63 MB used, 91.63 MB peak
+[2018.10.16-15.41.34:665][  0]LogMemory: Physical Memory: 5209.95 MB used,  2938.73 MB free, 8148.68 MB total
+[2018.10.16-15.41.34:665][  0]LogMemory: Virtual Memory: 516.49 MB used,  2938.73 MB free, 134217728.00 MB total
+[2018.10.16-15.41.34:757][  0]LogInit: Using OS detected language (en-US).
+[2018.10.16-15.41.34:757][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.16-15.41.34:759][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.16-15.41.35:215][  0]LogStreaming: Display: Took  0.458s to InitEngineTextLocalization.
+[2018.10.16-15.41.35:215][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.16-15.41.35:258][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.16-15.41.35:258][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.16-15.41.36:415][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.16-15.41.36:415][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.16-15.41.36:438][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 240' (Feature Level 11_0)
+[2018.10.16-15.41.36:439][  0]LogD3D11RHI:       1003/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.16-15.41.36:443][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.16-15.41.36:443][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.16-15.41.36:443][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.16-15.41.36:454][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.16-15.41.36:454][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.16-15.41.36:454][  0]LogWindows: EnumDisplayDevices:
+[2018.10.16-15.41.36:454][  0]LogWindows:    0. 'AMD Radeon(TM) R5 240' (P:0 D:1)
+[2018.10.16-15.41.36:454][  0]LogWindows:    1. 'AMD Radeon(TM) R5 240' (P:1 D:1)
+[2018.10.16-15.41.36:455][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.10.16-15.41.36:455][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 240
+[2018.10.16-15.41.36:455][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.10.16-15.41.36:455][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.10.16-15.41.36:455][  0]LogRHI: Texture pool is 702 MB (70% of 1003 MB)
+[2018.10.16-15.41.36:502][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.16-15.41.36:515][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.16-15.41.36:517][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/dacena/VRprojects/RiseAndRotate/Intermediate/Shaders/WorkingDirectory/12236/).
+[2018.10.16-15.41.36:517][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dacena/AppData/Local/Temp/UnrealShaderWorkingDir/2398278A4E07B9D6713A269838BA0607/'.
+[2018.10.16-15.41.37:083][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.16-15.41.37:107][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.16-15.41.37:128][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.16-15.41.37:150][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.16-15.41.37:172][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.16-15.41.37:197][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.16-15.41.37:219][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.16-15.41.37:241][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.16-15.41.37:252][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.16-15.41.37:382][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.16-15.41.37:462][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.16-15.41.37:462][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.16-15.41.37:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.16-15.41.37:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.16-15.41.37:521][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.16-15.41.37:541][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.16-15.41.37:559][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.16-15.41.37:580][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.16-15.41.37:595][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.16-15.41.37:595][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.16-15.41.37:700][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.16-15.41.37:700][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.16-15.41.37:700][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.16-15.41.38:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.16-15.41.38:991][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.16-15.41.38:991][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.16-15.41.38:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dacena/VRprojects/RiseAndRotate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.16-15.41.38:992][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.16-15.41.38:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dacena/VRprojects/RiseAndRotate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.16-15.41.38:992][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.16-15.41.39:008][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.16-15.41.39:024][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dacena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.16-15.41.39:024][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.16-15.41.39:024][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.16-15.41.39:049][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.16-15.41.39:050][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.16-15.41.39:054][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.16-15.41.39:339][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.10.16-15.41.39:933][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.16-15.41.42:287][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.16-15.41.43:176][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.16-15.41.43:176][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.16-15.41.43:176][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.16-15.41.43:176][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.16-15.41.43:259][  0]LogNetVersion: RiseAndRotate 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4259807938)
+[2018.10.16-15.41.44:923][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.350374 seconds
+[2018.10.16-15.41.44:931][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.16-15.41.44:931][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.16-15.41.44:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.16-15.42.10:359][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.16-15.42.10:496][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.16-15.42.12:267][  0]SourceControl: Source control is disabled
+[2018.10.16-15.42.12:267][  0]SourceControl: Source control is disabled
+[2018.10.16-15.42.12:677][  0]SourceControl: Source control is disabled
+[2018.10.16-15.42.12:760][  0]SourceControl: Source control is disabled
+[2018.10.16-15.42.16:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.16-15.42.17:636][  0]LogOcInput: OculusInput pre-init called
+[2018.10.16-15.42.18:322][  0]LogEngine: Initializing Engine...
+[2018.10.16-15.42.18:325][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.16-15.42.18:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.16-15.42.18:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.16-15.42.18:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.16-15.42.18:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.16-15.42.18:901][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.16-15.42.19:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.16-15.42.19:177][  0]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-15.42.19:688][  0]LogInit: FAudioDevice initialized.
+[2018.10.16-15.42.19:688][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.16-15.42.19:698][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.16-15.42.19:708][  0]LogInit: Texture streaming: Enabled
+[2018.10.16-15.42.20:589][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.16-15.42.21:229][  0]LogInit: Transaction tracking system initialized
+[2018.10.16-15.42.22:113][  0]BlueprintLog: New page: Editor Load
+[2018.10.16-15.42.24:912][  0]LocalizationService: Localization service is disabled
+[2018.10.16-15.42.27:163][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.16-15.42.27:164][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.16-15.42.27:164][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.16-15.42.27:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.16-15.42.27:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.16-15.42.27:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.16-15.42.27:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.16-15.42.27:335][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/RiseAndRotate/Content/' took 0.01s
+[2018.10.16-15.42.31:218][  0]SourceControl: Source control is disabled
+[2018.10.16-15.42.31:219][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.16-15.42.31:374][  0]LightingResults: New page: Lighting Build
+[2018.10.16-15.42.31:384][  0]MapCheck: New page: Map Check
+[2018.10.16-15.42.31:384][  0]LightingResults: New page: Lighting Build
+[2018.10.16-15.42.32:096][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.16-15.42.32:110][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.16-15.42.32:166][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.16-15.42.32:429][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 262.821ms to complete.
+[2018.10.16-15.42.32:429][  0]LogFileHelpers: Loading map 'Template_Default' took 1.211
+[2018.10.16-15.42.33:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.42.33:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.42.33:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.42.33:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.42.33:277][  0]LogCollectionManager: Loaded 0 collections in 0.004936 seconds
+[2018.10.16-15.42.33:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/RiseAndRotate/Saved/Collections/' took 0.01s
+[2018.10.16-15.42.33:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/RiseAndRotate/Content/Developers/dacena/Collections/' took 0.01s
+[2018.10.16-15.42.33:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/RiseAndRotate/Content/Collections/' took 0.01s
+[2018.10.16-15.42.33:344][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.16-15.42.33:367][  0]LogContentBrowser: Native class hierarchy populated in 0.0231 seconds. Added 2572 classes and 603 folders.
+[2018.10.16-15.42.33:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.16-15.42.35:010][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.10.16-15.42.35:096][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.16-15.42.35:156][  0]LogSlate: Took 0.001037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.16-15.42.35:160][  0]LogSlate: Took 0.001623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.16-15.42.35:185][  0]LogSlate: Took 0.017201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.16-15.42.35:408][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.16-15.42.35:968][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.16-15.42.35:968][  0]LogLoad: (Engine Initialization) Total time: 64.75 seconds
+[2018.10.16-15.42.35:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.16-15.42.36:006][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.16-15.42.36:098][  1]LogAssetRegistry: Asset discovery search completed in 56.7794 seconds
+[2018.10.16-15.42.36:100][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.16-15.42.36:100][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.10.16-15.42.37:487][  5]LogSlate: Took 0.055771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.16-15.42.45:359][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.16-15.42.46:799][ 60]LogLinker: Warning: Can't find file '/Game/Spinner_BuiltData'
+[2018.10.16-15.42.46:799][ 60]LogLinker: Warning: Can't find file for asset '/Game/Spinner_BuiltData' while loading ../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap.
+[2018.10.16-15.42.46:799][ 60]LoadErrors: Error: /Game/Spinner : Can't find file for asset. /Game/Spinner_BuiltData
+[2018.10.16-15.42.46:801][ 60]LogLinker: Warning: Can't find file '/Game/Spinner_BuiltData'
+[2018.10.16-15.42.46:801][ 60]LogLinker: Warning: Can't find file for asset '/Game/Spinner_BuiltData' while loading ../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap.
+[2018.10.16-15.42.46:811][ 60]LogLinker: Warning: Can't find file '/Game/Spinner_BuiltData'
+[2018.10.16-15.42.46:811][ 60]LoadErrors: Failed to load /Game/Spinner_BuiltData.Spinner_BuiltData Referenced by PersistentLevel
+[2018.10.16-15.42.46:811][ 60]LogLinker: Warning: Can't find file for asset '/Game/Spinner_BuiltData' while loading NULL.
+[2018.10.16-15.42.46:966][ 60]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-15.42.46:975][ 60]LogAssetEditorManager: Opening Asset editor for World /Game/Spinner.Spinner
+[2018.10.16-15.42.46:996][ 60]Cmd: MAP LOAD FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.16-15.42.46:996][ 60]LightingResults: New page: Lighting Build
+[2018.10.16-15.42.46:997][ 60]LoadErrors: New page: Loading map: Spinner.umap
+[2018.10.16-15.42.46:997][ 60]MapCheck: New page: Map Check
+[2018.10.16-15.42.46:997][ 60]LightingResults: New page: Lighting Build
+[2018.10.16-15.42.47:022][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.16-15.42.47:077][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.16-15.42.47:275][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 196.865ms to complete.
+[2018.10.16-15.42.47:276][ 60]LogFileHelpers: Loading map 'Spinner' took 0.281
+[2018.10.16-15.42.56:975][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RiseAndRotateController.RiseAndRotateController
+[2018.10.16-15.42.57:662][230]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.16-15.42.59:203][230]LogSlate: Took 0.027126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.16-15.43.01:894][349]LogSlate: Window 'RiseAndRotateController' being destroyed
+[2018.10.16-15.43.04:762][460]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_SpinnerTile.BP_SpinnerTile
+[2018.10.16-15.43.05:598][461]LogSlate: Took 0.021910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.16-15.45.04:446][403]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.45.04:453][403]LogBlueprint: Warning: [Compiler RiseAndRotateController] 'BP Spinner Tile' does not inherit from 'Static Mesh Component' ( Cast To BP_SpinnerTile  would always fail).
+[2018.10.16-15.45.04:453][403]LogBlueprint: Error: [Compiler RiseAndRotateController] This blueprint (self) is not a BP_SpinnerTile_C, therefore ' Target ' must have a connection.
+[2018.10.16-15.45.04:453][403]LogBlueprint: Error: [Compiler RiseAndRotateController] Variable node  Get Spinner  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.10.16-15.45.04:634][403]LogBlueprint: Warning: [Compiler RiseAndRotateController] [0213.42] Compile of RiseAndRotateController failed. 2 Fatal Issue(s) 1 Warning(s) [in 188 ms] (/Game/RiseAndRotateController.RiseAndRotateController)
+[2018.10.16-15.45.22:755][561]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.45.22:761][561]LogBlueprint: Error: [Compiler RiseAndRotateController] The type of  Object  is undetermined.  Connect something to  Cast To BP_SpinnerTile  to imply a specific type.
+[2018.10.16-15.45.22:761][561]LogBlueprint: Error: [Compiler RiseAndRotateController] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.16-15.45.22:924][561]LogBlueprint: Warning: [Compiler RiseAndRotateController] [0231.71] Compile of RiseAndRotateController failed. 2 Fatal Issue(s) 0 Warning(s) [in 169 ms] (/Game/RiseAndRotateController.RiseAndRotateController)
+[2018.10.16-15.45.46:411][350]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.45.46:416][350]LogBlueprint: Warning: [Compiler RiseAndRotateController] 'BP Spinner Tile' does not inherit from 'Rise and Rotate Controller' ( Cast To BP_SpinnerTile  would always fail).
+[2018.10.16-15.45.46:579][350]LogBlueprint: Warning: [Compiler RiseAndRotateController] [0255.36] Compile of RiseAndRotateController successful, but with 1 Warning(s) [in 167 ms] (/Game/RiseAndRotateController.RiseAndRotateController)
+[2018.10.16-15.52.17:548][405]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-15.52.17:572][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-15.52.17:575][405]LogPlayLevel: [PlayLevel] Compiling RiseAndRotateController before play...
+[2018.10.16-15.52.17:579][405]LogBlueprint: Error: [Compiler RiseAndRotateController] This blueprint (self) is not a BP_SpinnerTile_C, therefore ' Target ' must have a connection.
+[2018.10.16-15.52.17:579][405]LogBlueprint: Error: [Compiler RiseAndRotateController] The type of  Object  is undetermined.  Connect something to  Cast To BP_SpinnerTile  to imply a specific type.
+[2018.10.16-15.52.17:579][405]LogBlueprint: Error: [Compiler RiseAndRotateController] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.10.16-15.52.17:580][405]LogBlueprint: Warning: [Compiler RiseAndRotateController] [0646.36] Compile of RiseAndRotateController failed. 3 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/RiseAndRotateController.RiseAndRotateController)
+[2018.10.16-15.52.17:741][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2018.10.16-15.52.17:741][405]BlueprintLog: Blueprint RiseAndRotateController failed to compile
+[2018.10.16-15.52.19:465][405]LogSlate: Window 'Message' being destroyed
+[2018.10.16-15.53.13:854][886]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.53.13:862][886]LogBlueprint: Error: [Compiler RiseAndRotateController] This blueprint (self) is not a BP_SpinnerTile_C, therefore ' Target ' must have a connection.
+[2018.10.16-15.53.14:060][886]LogBlueprint: Warning: [Compiler RiseAndRotateController] [0702.84] Compile of RiseAndRotateController failed. 1 Fatal Issue(s) 0 Warning(s) [in 205 ms] (/Game/RiseAndRotateController.RiseAndRotateController)
+[2018.10.16-15.53.19:153][493]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.53.21:121][707]BlueprintLog: New page: Compile RiseAndRotateController
+[2018.10.16-15.53.45:926][600]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-15.53.45:950][600]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-15.53.45:954][600]LogPlayLevel: [PlayLevel] Compiling RiseAndRotateController before play...
+[2018.10.16-15.53.46:123][600]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2018.10.16-15.53.46:135][600]PIE: New page: PIE session: Spinner (Oct 16, 2018, 7:53:46 AM)
+[2018.10.16-15.53.46:135][600]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-15.53.46:140][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004357s)
+[2018.10.16-15.53.46:141][600]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-15.53.46:141][600]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2018.10.16-15.53.46:141][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.005525s)
+[2018.10.16-15.53.46:175][600]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-15.53.46:184][600]LogInit: FAudioDevice initialized.
+[2018.10.16-15.53.46:190][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.53.46:231][600]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-15.53.46:233][600]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-11.53.46
+[2018.10.16-15.53.46:234][600]LogWorld: Bringing up level for play took: 0.000881
+[2018.10.16-15.53.46:258][600]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.16-15.53.46:261][600]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.446
+[2018.10.16-15.53.46:333][600]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.16-15.53.56:874][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.53.56:897][816]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-15.53.56:957][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-15.53.57:007][817]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.16-15.54.04:511][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SpinnerTile" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset" SILENT=true
+[2018.10.16-15.54.04:588][629]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/BP_SpinnerTile832F31C849A5E6D7283D9990F862AABA.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset'
+[2018.10.16-15.54.07:103][906]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-15.54.12:105][462]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-15.54.12:137][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-15.54.12:137][462]PIE: New page: PIE session: Spinner (Oct 16, 2018, 7:54:12 AM)
+[2018.10.16-15.54.12:137][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-15.54.12:141][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003301s)
+[2018.10.16-15.54.12:141][462]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-15.54.12:142][462]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.10.16-15.54.12:142][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004349s)
+[2018.10.16-15.54.12:174][462]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-15.54.12:182][462]LogInit: FAudioDevice initialized.
+[2018.10.16-15.54.12:188][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.54.12:224][462]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-15.54.12:225][462]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-11.54.12
+[2018.10.16-15.54.12:226][462]LogWorld: Bringing up level for play took: 0.001198
+[2018.10.16-15.54.12:240][462]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.467
+[2018.10.16-15.54.18:320][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-15.54.18:341][585]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-15.54.18:404][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-15.54.18:456][586]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.16-15.55.09:555][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spinner" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.16-15.55.09:606][ 46]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Spinner_Auto1E47212EE4B718043BEE0118665991D89.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto1.umap'
+[2018.10.16-15.55.09:626][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Spinner' took 0.107
+[2018.10.16-15.55.09:626][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.107
+[2018.10.16-15.55.09:629][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RiseAndRotateController] ([1] browsable assets)...
+[2018.10.16-15.55.09:630][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/RiseAndRotateController]
+[2018.10.16-15.55.09:658][ 46]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/RiseAndRotateController_Auto1CBB9919043B0E59D706F6CABEE062456.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/RiseAndRotateController_Auto1.uasset'
+[2018.10.16-15.55.09:662][ 46]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.10.16-16.11.39:429][800]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.11.46:080][272]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.11.46:121][272]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.11.46:123][272]LogPlayLevel: [PlayLevel] Compiling RiseAndRotateController before play...
+[2018.10.16-16.11.46:287][272]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2018.10.16-16.11.46:288][272]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:11:46 AM)
+[2018.10.16-16.11.46:288][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.11.46:291][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2018.10.16-16.11.46:291][272]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.11.46:292][272]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2018.10.16-16.11.46:292][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004188s)
+[2018.10.16-16.11.46:321][272]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.11.46:331][272]LogInit: FAudioDevice initialized.
+[2018.10.16-16.11.46:364][272]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.11.46:366][272]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.11.46
+[2018.10.16-16.11.46:366][272]LogWorld: Bringing up level for play took: 0.000750
+[2018.10.16-16.11.46:421][272]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.298
+[2018.10.16-16.11.47:079][272]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_SpinnerTile_C /Game/UEDPIE_0_Spinner.Spinner:PersistentLevel.BP_SpinnerTile_4
+	Function /Game/BP_SpinnerTile.BP_SpinnerTile_C:ExecuteUbergraph_BP_SpinnerTile:032F
+[2018.10.16-16.11.47:079][272]PIE: Error: Infinite loop detected. Blueprint:  BP_SpinnerTile Function:  Event Tick Call Stack:  Show
+[2018.10.16-16.11.47:081][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.11.47:185][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.11.47:214][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.11.47:276][273]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.16-16.11.59:288][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.11.59:311][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.11.59:312][648]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:11:59 AM)
+[2018.10.16-16.11.59:312][648]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.11.59:316][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003788s)
+[2018.10.16-16.11.59:317][648]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.11.59:317][648]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2018.10.16-16.11.59:317][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.005362s)
+[2018.10.16-16.11.59:347][648]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.11.59:356][648]LogInit: FAudioDevice initialized.
+[2018.10.16-16.11.59:384][648]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.11.59:386][648]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.11.59
+[2018.10.16-16.11.59:386][648]LogWorld: Bringing up level for play took: 0.000708
+[2018.10.16-16.11.59:399][648]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 0.68
+[2018.10.16-16.12.00:040][648]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_SpinnerTile_C /Game/UEDPIE_0_Spinner.Spinner:PersistentLevel.BP_SpinnerTile_4
+	Function /Game/BP_SpinnerTile.BP_SpinnerTile_C:ExecuteUbergraph_BP_SpinnerTile:032F
+[2018.10.16-16.12.00:040][648]PIE: Error: Infinite loop detected. Blueprint:  BP_SpinnerTile Function:  Event Tick Call Stack:  Show
+[2018.10.16-16.12.00:041][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.12.00:157][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.12.00:197][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.12.00:255][649]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.16-16.12.07:271][785]LogSlate: Window 'Message Log' being destroyed
+[2018.10.16-16.12.07:289][785]LogSlate: Window 'Message Log' being destroyed
+[2018.10.16-16.12.07:602][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.16-16.12.08:302][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.16-16.12.26:552][921]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.12.39:463][422]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.12.39:499][422]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.12.39:511][422]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.12.39:698][422]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2018.10.16-16.12.39:698][422]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:12:39 AM)
+[2018.10.16-16.12.39:698][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.12.39:701][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003416s)
+[2018.10.16-16.12.39:702][422]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.12.39:702][422]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.10.16-16.12.39:702][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004587s)
+[2018.10.16-16.12.39:782][422]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.12.39:791][422]LogInit: FAudioDevice initialized.
+[2018.10.16-16.12.39:797][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.12.39:827][422]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.12.39:829][422]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.12.39
+[2018.10.16-16.12.39:829][422]LogWorld: Bringing up level for play took: 0.000895
+[2018.10.16-16.12.39:843][422]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 1.124
+[2018.10.16-16.12.52:415][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.12.52:439][680]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.12.52:498][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.12.52:555][681]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.16-16.13.02:660][878]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.13.02:696][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.13.02:696][878]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:13:02 AM)
+[2018.10.16-16.13.02:696][878]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.13.02:700][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003214s)
+[2018.10.16-16.13.02:700][878]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.13.02:701][878]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2018.10.16-16.13.02:701][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004341s)
+[2018.10.16-16.13.02:731][878]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.13.02:740][878]LogInit: FAudioDevice initialized.
+[2018.10.16-16.13.02:746][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.13.02:776][878]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.13.02:777][878]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.13.02
+[2018.10.16-16.13.02:777][878]LogWorld: Bringing up level for play took: 0.000802
+[2018.10.16-16.13.02:791][878]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 0.071
+[2018.10.16-16.13.09:426][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.13.09:449][ 15]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.13.09:510][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.13.09:601][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.16-16.13.28:729][214]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.13.28:755][214]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.13.28:767][214]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.13.28:966][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2018.10.16-16.13.28:966][214]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:13:28 AM)
+[2018.10.16-16.13.28:967][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.13.28:970][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003036s)
+[2018.10.16-16.13.28:970][214]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.13.28:971][214]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.10.16-16.13.28:971][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004055s)
+[2018.10.16-16.13.28:999][214]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.13.29:007][214]LogInit: FAudioDevice initialized.
+[2018.10.16-16.13.29:013][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.13.29:047][214]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.13.29:048][214]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.13.29
+[2018.10.16-16.13.29:048][214]LogWorld: Bringing up level for play took: 0.000805
+[2018.10.16-16.13.29:062][214]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 0.342
+[2018.10.16-16.13.50:475][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.13.50:499][646]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.13.50:562][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.13.50:625][647]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.16-16.14.25:549][587]LogEditorTransaction: Undo Delete current selection
+[2018.10.16-16.14.26:257][645]LogEditorTransaction: Undo Move Node
+[2018.10.16-16.14.27:325][760]LogEditorTransaction: Undo Add Node
+[2018.10.16-16.14.59:140][544]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.15.53:822][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spinner" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.16-16.15.53:958][437]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Spinner_Auto29F2FDA634ABD2AE867FCDD83F4F680D6.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto2.umap'
+[2018.10.16-16.15.53:975][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Spinner' took 0.185
+[2018.10.16-16.15.53:975][437]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.10.16-16.15.53:979][437]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RiseAndRotateController] ([1] browsable assets)...
+[2018.10.16-16.15.53:979][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/RiseAndRotateController]
+[2018.10.16-16.15.54:016][437]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/RiseAndRotateController_Auto2009FD4DE402C8FF29C8D139B6CDA6E39.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/RiseAndRotateController_Auto2.uasset'
+[2018.10.16-16.15.54:021][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_SpinnerTile] ([1] browsable assets)...
+[2018.10.16-16.15.54:079][437]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_SpinnerTile.BP_SpinnerTile]
+[2018.10.16-16.15.54:079][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_SpinnerTile]
+[2018.10.16-16.15.54:079][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SpinnerTile" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/BP_SpinnerTile_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.16-16.15.54:220][437]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/BP_SpinnerTile_Auto207F4C6324E3564FA1670D99E3CB6082A.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/BP_SpinnerTile_Auto2.uasset'
+[2018.10.16-16.15.54:223][437]LogFileHelpers: Auto-saving content packages took 0.247
+[2018.10.16-16.16.37:256][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.16.37:293][228]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.16.37:305][228]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.16.37:502][228]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (1 blueprints)
+[2018.10.16-16.16.37:502][228]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:16:37 AM)
+[2018.10.16-16.16.37:502][228]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.16.37:506][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003156s)
+[2018.10.16-16.16.37:506][228]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.16.37:507][228]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.10.16-16.16.37:507][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004208s)
+[2018.10.16-16.16.37:540][228]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.16.37:550][228]LogInit: FAudioDevice initialized.
+[2018.10.16-16.16.37:556][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.16.37:591][228]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.16.37:592][228]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.16.37
+[2018.10.16-16.16.37:592][228]LogWorld: Bringing up level for play took: 0.001076
+[2018.10.16-16.16.37:606][228]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 0.885
+[2018.10.16-16.16.59:249][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.16.59:275][674]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.16.59:328][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.16.59:379][675]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.16-16.18.51:655][865]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.18.52:965][988]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.18.53:003][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.18.53:003][988]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:18:53 AM)
+[2018.10.16-16.18.53:003][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.18.53:006][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003050s)
+[2018.10.16-16.18.53:007][988]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.18.53:007][988]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2018.10.16-16.18.53:007][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004280s)
+[2018.10.16-16.18.53:039][988]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.18.53:049][988]LogInit: FAudioDevice initialized.
+[2018.10.16-16.18.53:055][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.18.53:085][988]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.18.53:087][988]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.18.53
+[2018.10.16-16.18.53:087][988]LogWorld: Bringing up level for play took: 0.000960
+[2018.10.16-16.18.53:101][988]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 0.379
+[2018.10.16-16.19.14:549][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.19.14:569][427]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.19.14:642][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.19.14:732][428]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.16-16.19.48:584][354]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.19.49:666][448]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.19.49:710][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.19.49:710][448]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:19:49 AM)
+[2018.10.16-16.19.49:711][448]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.19.49:714][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003201s)
+[2018.10.16-16.19.49:715][448]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.19.49:715][448]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.10.16-16.19.49:715][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004222s)
+[2018.10.16-16.19.49:750][448]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.19.49:760][448]LogInit: FAudioDevice initialized.
+[2018.10.16-16.19.49:765][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.19.49:798][448]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.19.49:800][448]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.19.49
+[2018.10.16-16.19.49:801][448]LogWorld: Bringing up level for play took: 0.001419
+[2018.10.16-16.19.49:816][448]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 1.092
+[2018.10.16-16.20.08:076][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.20.08:103][820]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.20.08:170][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.20.08:272][821]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.16-16.20.19:728][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.20.19:753][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.20.19:753][191]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:20:19 AM)
+[2018.10.16-16.20.19:753][191]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.20.19:757][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003198s)
+[2018.10.16-16.20.19:757][191]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.20.19:758][191]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.10.16-16.20.19:758][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004305s)
+[2018.10.16-16.20.19:790][191]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.20.19:799][191]LogInit: FAudioDevice initialized.
+[2018.10.16-16.20.19:804][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.20.19:841][191]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.20.19:843][191]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.20.19
+[2018.10.16-16.20.19:843][191]LogWorld: Bringing up level for play took: 0.000969
+[2018.10.16-16.20.19:859][191]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.864
+[2018.10.16-16.21.18:330][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.21.18:355][388]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.21.18:428][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.21.18:517][389]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.16-16.24.06:864][697]LogSlate: Window 'Delete Variable' being destroyed
+[2018.10.16-16.24.09:310][800]LogSlate: Window 'Delete Variable' being destroyed
+[2018.10.16-16.24.19:493][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.16-16.25.36:551][ 48]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  LeftRotation  and was replaced as a Custom Event!
+[2018.10.16-16.27.54:797][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spinner" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.16-16.27.54:848][597]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Spinner_Auto3502A68984904B390195DE3839FFBCD06.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/Spinner_Auto3.umap'
+[2018.10.16-16.27.54:854][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Spinner' took 0.108
+[2018.10.16-16.27.54:854][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2018.10.16-16.27.54:857][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_SpinnerTile] ([1] browsable assets)...
+[2018.10.16-16.27.54:906][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_SpinnerTile.BP_SpinnerTile]
+[2018.10.16-16.27.54:906][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_SpinnerTile]
+[2018.10.16-16.27.54:906][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SpinnerTile" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/BP_SpinnerTile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.16-16.27.54:964][597]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/BP_SpinnerTile_Auto3BAC4D8094373480949D8ABB1CD737661.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Autosaves/Game/BP_SpinnerTile_Auto3.uasset'
+[2018.10.16-16.27.55:039][597]LogFileHelpers: Auto-saving content packages took 0.183
+[2018.10.16-16.28.33:876][675]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.28.33:900][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.28.33:910][675]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.28.33:925][675]LogBlueprint: Error: [Compiler BP_SpinnerTile] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2018.10.16-16.28.33:926][675]LogBlueprint: Warning: [Compiler BP_SpinnerTile] [2822.68] Compile of BP_SpinnerTile failed. 1 Fatal Issue(s) 0 Warning(s) [in 16 ms] (/Game/BP_SpinnerTile.BP_SpinnerTile)
+[2018.10.16-16.28.34:169][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 269 ms (1 blueprints)
+[2018.10.16-16.28.34:169][675]BlueprintLog: Blueprint BP_SpinnerTile failed to compile
+[2018.10.16-16.28.36:611][675]LogSlate: Window 'Message' being destroyed
+[2018.10.16-16.28.47:329][916]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.28.47:353][916]LogBlueprint: Error: [Compiler BP_SpinnerTile] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2018.10.16-16.28.47:528][916]LogBlueprint: Warning: [Compiler BP_SpinnerTile] [2836.28] Compile of BP_SpinnerTile failed. 1 Fatal Issue(s) 0 Warning(s) [in 198 ms] (/Game/BP_SpinnerTile.BP_SpinnerTile)
+[2018.10.16-16.29.06:107][ 93]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.29.08:155][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.29.08:191][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.29.08:192][302]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:29:08 AM)
+[2018.10.16-16.29.08:192][302]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.29.08:195][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003262s)
+[2018.10.16-16.29.08:196][302]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.29.08:196][302]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2018.10.16-16.29.08:196][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004557s)
+[2018.10.16-16.29.08:228][302]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.29.08:238][302]LogInit: FAudioDevice initialized.
+[2018.10.16-16.29.08:244][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.29.08:279][302]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.29.08:281][302]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.29.08
+[2018.10.16-16.29.08:281][302]LogWorld: Bringing up level for play took: 0.001196
+[2018.10.16-16.29.08:295][302]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.435
+[2018.10.16-16.29.11:644][369]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.14:397][426]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.16:942][478]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.18:325][506]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.19:181][523]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.19:679][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.29.19:701][533]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.29.19:777][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.29.19:861][534]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.16-16.29.40:542][890]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.29.42:203][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.29.42:240][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.29.42:240][ 56]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:29:42 AM)
+[2018.10.16-16.29.42:240][ 56]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.29.42:243][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2018.10.16-16.29.42:244][ 56]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.29.42:244][ 56]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2018.10.16-16.29.42:244][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004287s)
+[2018.10.16-16.29.42:278][ 56]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.29.42:287][ 56]LogInit: FAudioDevice initialized.
+[2018.10.16-16.29.42:292][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.29.42:324][ 56]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.29.42:325][ 56]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.29.42
+[2018.10.16-16.29.42:326][ 56]LogWorld: Bringing up level for play took: 0.000863
+[2018.10.16-16.29.42:340][ 56]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.39
+[2018.10.16-16.29.44:937][107]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.46:205][133]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.46:823][146]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.47:018][150]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.47:206][154]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.47:402][158]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.47:595][162]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.47:789][166]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.48:039][171]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.48:185][174]LogBlueprintUserMessages: Warning: ClearTimer passed a bad function (None) or object (BP_SpinnerTile_4)
+[2018.10.16-16.29.50:311][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.29.50:333][217]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.29.50:404][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.29.50:492][218]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.16-16.29.54:996][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.16-16.31.06:208][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.31.06:233][977]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.31.06:242][977]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.31.06:437][977]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2018.10.16-16.31.06:438][977]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:31:06 AM)
+[2018.10.16-16.31.06:438][977]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.31.06:441][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002981s)
+[2018.10.16-16.31.06:442][977]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.31.06:442][977]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.10.16-16.31.06:442][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004181s)
+[2018.10.16-16.31.06:475][977]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.31.06:484][977]LogInit: FAudioDevice initialized.
+[2018.10.16-16.31.06:491][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.31.06:525][977]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.31.06:526][977]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.31.06
+[2018.10.16-16.31.06:527][977]LogWorld: Bringing up level for play took: 0.000812
+[2018.10.16-16.31.06:541][977]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.19
+[2018.10.16-16.31.39:169][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.31.39:193][645]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.31.39:250][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.31.39:300][646]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.10.16-16.32.51:709][203]BlueprintLog: New page: Compile BP_SpinnerTile
+[2018.10.16-16.32.54:212][464]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.32.54:249][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.16-16.32.54:250][464]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:32:54 AM)
+[2018.10.16-16.32.54:250][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.32.54:253][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002945s)
+[2018.10.16-16.32.54:253][464]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.32.54:254][464]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.10.16-16.32.54:254][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.003936s)
+[2018.10.16-16.32.54:286][464]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.32.54:296][464]LogInit: FAudioDevice initialized.
+[2018.10.16-16.32.54:301][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.32.54:336][464]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.32.54:337][464]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.32.54
+[2018.10.16-16.32.54:337][464]LogWorld: Bringing up level for play took: 0.000866
+[2018.10.16-16.32.54:351][464]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner -0.38
+[2018.10.16-16.33.01:389][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.33.01:411][607]LogSlate: Window 'RiseAndRotate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.16-16.33.01:484][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.33.01:570][608]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.16-16.33.10:018][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SpinnerTile" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset" SILENT=true
+[2018.10.16-16.33.10:080][576]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/BP_SpinnerTileAFD3F01E4AA707B961376187D6EAA26C.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset'
+[2018.10.16-16.33.11:970][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SpinnerTile" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset" SILENT=true
+[2018.10.16-16.33.12:020][798]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/BP_SpinnerTile8D710278403266B3C6B957BB1B332D50.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/BP_SpinnerTile.uasset'
+[2018.10.16-16.33.17:053][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RiseAndRotateController" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/RiseAndRotateController.uasset" SILENT=true
+[2018.10.16-16.33.17:079][398]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/RiseAndRotateControllerE7FDCC73456F3A3CCAE2E9B940B4C787.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/RiseAndRotateController.uasset'
+[2018.10.16-16.33.20:251][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spinner" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.16-16.33.20:331][512]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Spinner5B8E23CF497607F39F1A34BF2F5620D0.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap'
+[2018.10.16-16.33.23:443][581]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.16-16.33.23:467][581]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.16-16.33.23:477][581]LogPlayLevel: [PlayLevel] Compiling BP_SpinnerTile before play...
+[2018.10.16-16.33.23:677][581]LogPlayLevel: PlayLevel: Blueprint regeneration took 209 ms (1 blueprints)
+[2018.10.16-16.33.23:677][581]PIE: New page: PIE session: Spinner (Oct 16, 2018, 8:33:23 AM)
+[2018.10.16-16.33.23:677][581]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Spinner
+[2018.10.16-16.33.23:680][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003066s)
+[2018.10.16-16.33.23:681][581]LogAIModule: Creating AISystem for world Spinner
+[2018.10.16-16.33.23:681][581]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.10.16-16.33.23:681][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Spinner.Spinner to /Game/UEDPIE_0_Spinner.Spinner (0.004192s)
+[2018.10.16-16.33.23:715][581]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.16-16.33.23:723][581]LogInit: FAudioDevice initialized.
+[2018.10.16-16.33.23:752][581]LogLoad: Game class is 'GameModeBase'
+[2018.10.16-16.33.23:754][581]LogWorld: Bringing World /Game/UEDPIE_0_Spinner.Spinner up for play (max tick rate 0) at 2018.10.16-12.33.23
+[2018.10.16-16.33.23:754][581]LogWorld: Bringing up level for play took: 0.000752
+[2018.10.16-16.33.23:768][581]PIE: Play in editor start time for /Game/UEDPIE_0_Spinner 1.036
+[2018.10.16-16.33.37:242][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.33.37:293][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.16-16.33.37:325][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.16-16.33.37:382][949]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.16-16.33.57:239][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.16-16.33.59:973][209]LogSlate: Window 'Save Content' being destroyed
+[2018.10.16-16.34.00:563][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spinner" FILE="../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.16-16.34.00:633][209]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Saved/Spinner30EC232F45E8065C55E0539DB58F1E05.tmp' to '../../../../../../Users/dacena/VRprojects/RiseAndRotate/Content/Spinner.umap'
+[2018.10.16-16.34.00:677][209]LogFileHelpers: Saving map 'Spinner' took 0.686
+[2018.10.16-16.34.00:902][209]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.16-16.34.00:998][209]LogSlate: Window 'RiseAndRotate - Unreal Editor' being destroyed
+[2018.10.16-16.34.01:228][210]Cmd: QUIT_EDITOR
+[2018.10.16-16.34.02:077][210]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.16-16.34.02:107][210]LogExit: Preparing to exit.
+[2018.10.16-16.34.02:539][210]LogExit: Editor shut down
+[2018.10.16-16.34.02:540][210]LogExit: Transaction tracking system shut down
+[2018.10.16-16.34.03:074][210]LogExit: Object subsystem successfully closed.
+[2018.10.16-16.34.03:091][210]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.16-16.34.03:096][210]LogD3D11RHI: Shutdown
+[2018.10.16-16.34.03:096][210]LogD3D11RHI: CleanupD3DDevice
+[2018.10.16-16.34.03:103][210]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.16-16.34.05:001][210]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.10.16-16.34.05:002][210]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.10.16-16.34.05:012][210]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.10.16-16.34.05:013][210]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.16-16.34.05:013][210]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.16-16.34.05:013][210]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.16-16.34.05:042][210]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.16-16.34.05:042][210]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.16-16.34.05:042][210]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.16-16.34.05:063][210]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.10.16-16.34.05:074][210]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.16-16.34.05:081][210]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.16-16.34.05:091][210]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.16-16.34.05:099][210]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.16-16.34.05:106][210]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.16-16.34.05:106][210]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.16-16.34.05:106][210]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.16-16.34.05:107][210]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.16-16.34.05:107][210]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.16-16.34.05:107][210]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.16-16.34.05:110][210]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.16-16.34.05:116][210]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.16-16.34.05:116][210]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.16-16.34.05:116][210]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.16-16.34.05:126][210]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.16-16.34.05:152][210]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.16-16.34.05:179][210]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.16-16.34.05:179][210]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.16-16.34.05:236][210]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.16-16.34.05:236][210]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.16-16.34.05:236][210]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.16-16.34.05:269][210]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.16-16.34.05:270][210]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.16-16.34.05:296][210]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.16-16.34.05:322][210]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.16-16.34.05:335][210]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.16-16.34.05:348][210]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.16-16.34.05:354][210]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.16-16.34.05:354][210]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.16-16.34.05:360][210]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.16-16.34.05:360][210]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.16-16.34.05:360][210]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.16-16.34.05:575][210]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.16-16.34.05:575][210]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.16-16.34.05:575][210]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.16-16.34.05:576][210]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.16-16.34.05:576][210]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.16-16.34.05:600][210]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.16-16.34.05:610][210]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.16-16.34.05:629][210]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.16-16.34.05:638][210]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.16-16.34.05:638][210]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.16-16.34.05:638][210]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.16-16.34.05:643][210]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.16-16.34.05:643][210]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.16-16.34.05:646][210]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.16-16.34.05:646][210]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.16-16.34.05:647][210]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.16-16.34.05:647][210]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.16-16.34.05:660][210]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.16-16.34.05:678][210]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.16-16.34.05:682][210]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.16-16.34.05:688][210]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.16-16.34.05:701][210]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.16-16.34.05:774][210]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.16-16.34.05:829][210]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.16-16.34.05:838][210]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.16-16.34.05:855][210]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.16-16.34.05:855][210]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.16-16.34.05:871][210]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.16-16.34.05:871][210]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.16-16.34.05:894][210]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.16-16.34.05:894][210]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.16-16.34.05:899][210]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.16-16.34.05:920][210]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.16-16.34.05:921][210]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.16-16.34.05:932][210]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.16-16.34.05:932][210]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.16-16.34.05:936][210]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.16-16.34.05:948][210]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.16-16.34.05:948][210]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.16-16.34.05:958][210]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.16-16.34.05:962][210]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.16-16.34.05:962][210]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.16-16.34.05:962][210]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.16-16.34.05:964][210]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.16-16.34.05:977][210]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.16-16.34.05:987][210]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.16-16.34.05:994][210]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.16-16.34.05:994][210]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.16-16.34.05:994][210]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.16-16.34.06:032][210]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.16-16.34.06:069][210]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.16-16.34.06:069][210]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.16-16.34.06:069][210]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.16-16.34.06:096][210]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.16-16.34.06:097][210]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.16-16.34.06:097][210]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.16-16.34.06:107][210]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.16-16.34.06:138][210]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.16-16.34.06:138][210]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.16-16.34.06:138][210]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.16-16.34.06:138][210]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.16-16.34.06:158][210]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.16-16.34.06:158][210]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.16-16.34.06:158][210]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.16-16.34.06:158][210]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.16-16.34.06:168][210]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.16-16.34.06:172][210]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.16-16.34.06:173][210]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.16-16.34.06:173][210]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.16-16.34.06:210][210]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.16-16.34.06:214][210]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.16-16.34.06:214][210]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.16-16.34.06:220][210]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.16-16.34.06:223][210]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.16-16.34.06:223][210]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.16-16.34.06:223][210]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.16-16.34.06:223][210]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.16-16.34.06:223][210]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.16-16.34.06:231][210]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.16-16.34.06:246][210]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.16-16.34.06:263][210]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.16-16.34.06:271][210]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.16-16.34.06:271][210]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.16-16.34.06:271][210]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.16-16.34.06:271][210]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.16-16.34.06:271][210]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.16-16.34.06:291][210]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.16-16.34.06:299][210]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.16-16.34.06:300][210]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.16-16.34.06:300][210]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.16-16.34.06:300][210]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.16-16.34.06:312][210]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.16-16.34.06:312][210]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.16-16.34.06:312][210]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.16-16.34.06:328][210]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.16-16.34.06:328][210]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.16-16.34.06:428][210]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.16-16.34.06:562][210]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.16-16.34.06:562][210]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.16-16.34.06:585][210]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.16-16.34.06:585][210]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.16-16.34.06:585][210]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.16-16.34.06:585][210]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.16-16.34.06:593][210]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.16-16.34.06:626][210]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.16-16.34.06:636][210]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.16-16.34.06:637][210]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.16-16.34.06:643][210]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.16-16.34.06:675][210]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.16-16.34.06:679][210]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.16-16.34.06:690][210]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.16-16.34.06:690][210]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.16-16.34.06:690][210]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.16-16.34.06:698][210]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.16-16.34.06:707][210]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.16-16.34.06:715][210]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.16-16.34.06:721][210]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.16-16.34.06:722][210]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.16-16.34.06:722][210]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.16-16.34.06:749][210]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.16-16.34.06:749][210]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.16-16.34.06:749][210]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.16-16.34.06:749][210]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.16-16.34.06:758][210]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.16-16.34.06:767][210]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.16-16.34.06:767][210]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.16-16.34.06:792][210]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.16-16.34.06:798][210]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.16-16.34.06:819][210]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.16-16.34.06:819][210]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.16-16.34.06:830][210]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.16-16.34.06:858][210]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.16-16.34.06:889][210]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.16-16.34.06:889][210]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.16-16.34.06:917][210]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.16-16.34.06:917][210]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.16-16.34.06:922][210]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.16-16.34.06:926][210]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.16-16.34.06:931][210]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.16-16.34.06:951][210]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.16-16.34.06:951][210]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.16-16.34.06:955][210]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.16-16.34.06:976][210]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.16-16.34.06:976][210]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.16-16.34.06:992][210]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.16-16.34.06:997][210]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.16-16.34.06:998][210]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.16-16.34.07:066][210]LogDerivedDataCache: Shutdown
+[2018.10.16-16.34.07:066][210]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.16-16.34.07:066][210]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.16-16.34.07:066][210]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.16-16.34.07:066][210]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.16-16.34.07:075][210]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.16-16.34.07:087][210]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.16-16.34.07:087][210]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.16-16.34.07:100][210]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.16-16.34.07:100][210]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.16-16.34.07:100][210]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.16-16.34.07:103][210]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.16-16.34.07:106][210]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.16-16.34.07:107][210]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.16-16.34.07:121][210]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.16-16.34.07:135][210]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.16-16.34.07:150][210]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.16-16.34.07:150][210]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.16-16.34.07:159][210]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.16-16.34.07:159][210]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.16-16.34.07:211][210]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.16-16.34.07:211][210]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.16-16.34.07:211][210]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.16-16.34.07:211][210]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.16-16.34.07:212][210]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.16-16.34.07:228][210]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.16-16.34.07:228][210]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.16-16.34.07:228][210]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.16-16.34.07:228][210]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.16-16.34.07:258][210]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.16-16.34.07:296][210]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.16-16.34.07:377][210]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.16-16.34.07:394][210]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.10.16-16.34.07:394][210]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B179F933F-4F8E-8384-7A4D-E398EA32CFF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=550f45374593989495581b89375c7239%7C22e0618366684d28a72953957cd44439%7C08ad66ac-69aa-4a51-8a5f-9b2c38114cfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.16-16.34.07:394][210]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B179F933F-4F8E-8384-7A4D-E398EA32CFF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=550f45374593989495581b89375c7239%7C22e0618366684d28a72953957cd44439%7C08ad66ac-69aa-4a51-8a5f-9b2c38114cfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.16-16.34.07:420][210]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.16-16.34.07:443][210]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.16-16.34.07:443][210]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.16-16.34.07:444][210]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.16-16.34.07:444][210]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.16-16.34.07:445][210]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.16-16.34.07:445][210]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.16-16.34.07:500][210]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.16-16.34.07:500][210]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.16-16.34.07:525][210]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.16-16.34.07:584][210]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.16-16.34.07:584][210]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.16-16.34.07:584][210]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.16-16.34.07:600][210]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.16-16.34.07:609][210]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.16-16.34.07:609][210]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.16-16.34.07:628][210]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.16-16.34.07:628][210]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.16-16.34.07:628][210]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.16-16.34.07:628][210]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.16-16.34.07:657][210]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.16-16.34.07:657][210]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.16-16.34.07:661][210]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.16-16.34.07:661][210]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.16-16.34.07:697][210]LogExit: Exiting.
+[2018.10.16-16.34.07:730][210]Log file closed, 10/16/18 12:34:07
